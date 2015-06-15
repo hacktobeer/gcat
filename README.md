@@ -86,4 +86,6 @@ To Do
 
 - Multi-platform support
 - Command to upload files
-- Transport crypto & obfuscation
+- Transport crypto & obfuscation: use JPG files with key in header and commands in LSB of each pixel.
+- Change C2 to Google Photo (Picassa) API
+- Move implant functionality to loadable python modules
